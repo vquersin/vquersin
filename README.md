@@ -3,7 +3,7 @@
 - 👀 I’m interested in Technology and Gaming. 
 
 - 🌱 I’m currently learning DevWeb Coding.
-      Actually, i've learned HTML / CSS / PHP. In future, i'll reach learning SQL, Symfony.
+      Actually, i've learned HTML / CSS / PHP. In future, i'll reach learning SQL, Symfony.  
       Languages & Tools  
 ![imgGit](./profile/img/git.svg)&nbsp;&nbsp;
 ![imgVscode](./profile/img/vscode.svg)&nbsp;&nbsp;
