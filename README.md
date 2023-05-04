@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Valentin and i'm 30 old years.
+- 👋 Hi, I’m Valentin and i'm 30 years old.
 
 - 👀 I’m interested in Technology and Gaming. 
 
