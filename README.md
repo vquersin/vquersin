@@ -30,10 +30,7 @@
   ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;&nbsp;
   ![Indesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)&nbsp;&nbsp;  
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;&nbsp;
-  ![3DSMax]()&nbsp;&nbsp;
-  ![ZBrush]()&nbsp;&nbsp;
-  ![SubstancePainter]()&nbsp;&nbsp;
-  ![SubstanceDesigner]()&nbsp;&nbsp;  
+  ![3DSoftAutodesk](https://img.shields.io/badge/Autodesk-000000.svg?style=for-the-badge&logo=Autodesk&logoColor=white)&nbsp;&nbsp;  
   ![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)&nbsp;&nbsp;
   
 
