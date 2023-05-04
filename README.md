@@ -38,7 +38,7 @@
       But isn't a problem for me to collaborate on any project... All projects have exciting things.
       
 - 📫 How to reach me ...  
-      [![Access](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](quersin.valentin@gmail.com)
+      <div align="center">![Access](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)</div>  <div align="center">quersin.valentin@gmail.com</div>
       
 
 <!---
