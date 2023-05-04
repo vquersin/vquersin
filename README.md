@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently learning DevWeb Coding.
       Actually, i've learned HTML / CSS / PHP. In future, i'll reach learning SQL, Symfony, JS.  
-      -Languages & Tools : 
+      -Languages & Tools :   
+  
 ![imgGit](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
 ![imgVscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;&nbsp;
 ![imgFigma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;&nbsp;
@@ -20,7 +21,8 @@
 ![imgPhpMyAdmin]()&nbsp;&nbsp;
 ![imgWordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) &nbsp;&nbsp;
 
-  -Others skills  :
+  -Others skills  :  
+    
   ![imgC](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
   ![imgC++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;
   ![imgC#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;&nbsp;
