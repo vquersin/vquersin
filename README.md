@@ -8,13 +8,13 @@
 ![imgGit](./profile/img/git.svg)&nbsp;&nbsp;
 ![imgVscode](./profile/img/vscode.svg)&nbsp;&nbsp;
 ![imgFigma](./profile/img/figma.svg)&nbsp;&nbsp;
-![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;
-![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;
+![imgHtml](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp;
+![imgCSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
 ![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp; 
 ![imgPhp](./profile/img/php.svg)&nbsp;&nbsp;
 ![imgSymfony](./profile/img/symfony.svg)&nbsp;&nbsp;
 ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; 
-![imgJs](./profile/img/javascript.svg)&nbsp;&nbsp;
+![imgJs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;
 ![imgReact](./profile/img/react.svg)&nbsp;&nbsp;
 ![imgMySql](./profile/img/mysql.svg)&nbsp;&nbsp;
 ![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp;
