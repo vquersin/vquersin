@@ -37,8 +37,9 @@
 - 💞️ I’m looking to collaborate on project linked at the gaming world. 
       But isn't a problem for me to collaborate on any project... All projects have exciting things.
       
-- 📫 How to reach me ...
-      quersin.valentin@gmail.com
+- 📫 How to reach me ...  
+      [![Access](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](quersin.valentin@gmail.com)
+      
 
 <!---
 vquersin/vquersin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
